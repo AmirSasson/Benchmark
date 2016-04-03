@@ -1,4 +1,8 @@
 # Benchmark
+
+[![Build status](https://ci.appveyor.com/api/projects/status/6h029kueius170as?svg=true)](https://ci.appveyor.com/project/AmirSasson/benchmark)
+
+
 ## This project uses webapi and *jmeter* to operate a set + get over a specified injected repository.
 Supported repos : Elastic
 
