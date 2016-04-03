@@ -1,0 +1,1 @@
+C:\Users\amirs\Documents\GitHubVisualStudio\Benchmark\DBBenchmarks.Api\bin\Debug\DBBenchmark.Api.exe.config
