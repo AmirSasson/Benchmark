@@ -22,6 +22,7 @@ namespace StateMachineTests
         static void Main(string[] args)
         {
 
+
             string baseAddress = "http://localhost:3000/";
 
             // Start OWIN host 
